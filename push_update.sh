@@ -1,6 +1,6 @@
 #!/bin/bash
 
-$com = $1
+com = $1
 
 git add .
 
