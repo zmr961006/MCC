@@ -6,7 +6,7 @@ com=$1
 
 git add .
 
-git commit -m  '$com'
+git commit -m  $com
 
 git push origin master
 
