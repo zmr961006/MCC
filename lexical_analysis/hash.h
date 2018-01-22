@@ -10,10 +10,8 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
+#define MAXKEY 1024
 
-typedef struct 
-
-
-
+int elf_hash(char * key);
 
 #endif
